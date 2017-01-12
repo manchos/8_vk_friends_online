@@ -18,4 +18,5 @@ The code is written for educational purposes. Training course for web-developers
 ## Requirement
 
 pip install -r requirements.txt
+
 Python >=3.5
